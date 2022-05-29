@@ -1,2 +1,3 @@
 # zskScriptPack
-Simple Variated Script Pack
+Simple Variated Script Pack <br>
+                        This script contains the next functions
